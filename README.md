@@ -1,4 +1,5 @@
 # CarBuddy
-This is an app that takes a takes a text file of common maintenece services that are preformed on vehicles. It is a tracker that uses the average miles to replace and the current miles traveled of a user and displays them. There are thresholds set in place that will change the color of the icons based on the life percentage remaining on the objects. This is an app that is still under development but display function is working and complete.
-
+This is an app that takes a takes a text file of common maintenece services that are preformed on vehicles. It is a tracker that uses the average miles to replace and the current miles traveled of a user and displays them. There are thresholds set in place that will change the color of the icons based on the life percentage remaining on the objects. This is an app that is still under development but display function is working and complete. The display shows the miles remaining based the progress bar and an info button which turns red along with the progress bars if the miles remaining is below a certain threshold. The first screen shot shows the main display/view. The second screenshot shows the pop up that is shown when an info button is pressed. 
+![Alt text](https://user-images.githubusercontent.com/89666790/168373354-bc3ba9e3-e0b9-45ce-957a-ad97b5745539.png)
+![Alt text](https://user-images.githubusercontent.com/89666790/168373400-e925cf78-5f1a-48f8-8ca7-0fb19890b968.png)
 
