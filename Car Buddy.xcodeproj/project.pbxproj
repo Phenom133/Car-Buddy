@@ -43,6 +43,7 @@
 		89201E192816FBFB0052DA16 /* testarr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testarr.swift; sourceTree = "<group>"; };
 		898688592818D2CB00DC2D90 /* readingfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = readingfile.swift; path = ../readingfile.swift; sourceTree = "<group>"; };
 		898688772818E2B800DC2D90 /* test1Data.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test1Data.txt; sourceTree = "<group>"; };
+		899922E5282EE02F009A9C5D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		89C49CEF28161CDD006EBD83 /* Car Buddy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Car Buddy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		89C49CF228161CDD006EBD83 /* Car_BuddyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car_BuddyApp.swift; sourceTree = "<group>"; };
 		89C49CF428161CDD006EBD83 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -83,6 +84,7 @@
 		89C49CE628161CDC006EBD83 = {
 			isa = PBXGroup;
 			children = (
+				899922E5282EE02F009A9C5D /* README.md */,
 				898688592818D2CB00DC2D90 /* readingfile.swift */,
 				89C49CF128161CDD006EBD83 /* Car Buddy */,
 				89C49D0228161CDF006EBD83 /* Car BuddyTests */,
